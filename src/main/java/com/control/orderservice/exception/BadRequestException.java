@@ -1,4 +1,4 @@
-package com.control.swagger.exception;
+package com.control.orderservice.exception;
 
 public class BadRequestException extends RuntimeException {
     public BadRequestException(String msg) {

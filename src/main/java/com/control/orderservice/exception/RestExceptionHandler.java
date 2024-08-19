@@ -1,4 +1,4 @@
-package com.control.swagger.exception;
+package com.control.orderservice.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

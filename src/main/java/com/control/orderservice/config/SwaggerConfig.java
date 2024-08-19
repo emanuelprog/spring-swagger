@@ -1,4 +1,4 @@
-package com.control.swagger.config;
+package com.control.orderservice.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;
